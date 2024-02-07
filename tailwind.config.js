@@ -8,6 +8,10 @@ module.exports = {
       fontFamily: {
         poppins: ['Poppins'],
       },
+      height:{
+        cardheight: '27rem'
+      }
+      
     },
   },
   plugins: [],

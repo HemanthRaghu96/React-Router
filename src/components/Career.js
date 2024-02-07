@@ -4,22 +4,40 @@ import Card from './Card'
 const Career = () => {
   const data=[
     {
-      url:'https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Economics-Students.webp',
-      title:'Introduction to HTML Tags: A Comprehensive Guide With Examples [2024]',
-      description:'Creating a website on our own must have been on everyone’s bucket list since the',
-      date:'6 February 2024  No Comments'
+      url:require('../image/24.jpg'),
+      title:'Master JavaScript Frontend Roadmap: From Novice to Expert [2024]',
+      description:'Are you eager to learn JavaScript? Want to dive deep into the JavaScript frontend roadmap?',
+      date:'2 February 2024  No Comments'
     },
     {
-      url:'https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Economics-Students.webp',
-      title:'Introduction to HTML Tags: A Comprehensive Guide With Examples [2024] ',
-      description:'Creating a website on our own must have been on everyone’s bucket list since the',
-      date:'6 February 2024  No Comments'
+      url:require('../image/25.webp'),
+      title:'Top Technologies to Learn in 2024: Jumpstart a Successful Tech Career',
+      description:'If your New Year resolution consists of building a successful tech career in 2024, then',
+      date:'19 January 2024  No Comments'
     },
     {
-      url:'https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Economics-Students.webp',
-      title:'Introduction to HTML Tags: A Comprehensive Guide With Examples [2024]',
-      description:'Creating a website on our own must have been on everyone’s bucket list since the',
-      date:'6 February 2024  No Comments'
+      url:require('../image/26.jpg'),
+      title:'UI/UX Designer Job Description and Roles & Responsibilities',
+      description:'UI UX is the abbreviated word that’s been rocking the trend over the years, especially',
+      date:'13 December 2023  No Comments'
+    },
+    {
+      url:require('../image/27.webp'),
+      title:'Top 5 IT Jobs for Economics Students',
+      description:'In today’s digital age, the intersection of economics and technology offers exciting career opportunities for',
+      date:'4 December 2023  No Comments'
+    },
+    {
+      url:require('../image/28.webp'),
+      title:'Top IT Jobs for Commerce Students: A Lucrative Career Path',
+      description:'With the rapid advancement of technology, the demand for IT professionals has soared in recent',
+      date:'2 December 2023  No Comments'
+    },
+    {
+      url:require('../image/29.webp'),
+      title:'Automation Test Engineer Resume: 10 Important Things To Consider',
+      description:'The world is moving towards automating the testing of products in order to increase work',
+      date:'1 December 2023  No Comments'
     },
   ]
   return (
