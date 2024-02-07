@@ -9,7 +9,11 @@ module.exports = {
         poppins: ['Poppins'],
       },
       height:{
-        cardheight: '27rem'
+        cardheight: '27rem',
+        smallcard:'30rem'
+      },
+      width:{
+        86:'21rem'
       }
       
     },
