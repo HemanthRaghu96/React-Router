@@ -1,3 +1,16 @@
+# React Router Task
+
+I create a web page with routes using react-router-dom.\
+In my web page you will find the navigation for  blogs related to full stack development, Data science , Cyber Security & Career As Navigation menu.\
+Content in each page is static.\
+I have used React JSX for design and functionality ,Tailwindcss for styling.\
+My Shopping Cart is responsive can use in small to large phone,tablet,laptop and desktop.
+
+Live App Demo:https://r-router.netlify.app/
+
+This project is open scorce,\
+🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -2,6 +2,7 @@ import React from 'react'
 import Card from './Card'
 
 const DataScience = () => {
+  //Passing detailed data to Card
   const data=[
     {
       url:require('../image/12.webp'),
@@ -43,6 +44,7 @@ const DataScience = () => {
   return (
     <section>
     <div className='w-96 md:w-11/12 mt-11 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
+    {/* Maping all the data to Card */}
     {data.map((data,index)=>(
       <Card
       key={index}

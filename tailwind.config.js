@@ -10,7 +10,7 @@ module.exports = {
       },
       height:{
         cardheight: '27rem',
-        smallcard:'30rem'
+        smallcard:'32rem'
       },
       width:{
         86:'21rem'
