@@ -42,7 +42,7 @@ const Career = () => {
   ]
   return (
     <section>
-    <div className='w-5/6 mx-auto mt-11 grid grid-cols-3'>
+     <div className='w-96 md:w-11/12 mt-11 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
     {data.map((data,index)=>(
       <Card 
       key={index}
